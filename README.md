@@ -1,7 +1,7 @@
 # Hi there 👋, I'm TunmiDev
 
-### 💻 Front-End Developer | JavaScript & React Enthusiast  
-Passionate Front-End Developer dedicated to crafting responsive, user-friendly interfaces. Skilled in **JavaScript**, **React**, **TypeScript**, and modern UI frameworks like **Tailwind CSS**. Always learning and building to bring ideas to life.
+### 💻 Software Engineer  
+Passionate Software Engineer dedicated to building responsive, user-friendly interfaces. Skilled in **JavaScript**, **React**, **TypeScript**, and modern UI frameworks like **Tailwind CSS**. Always learning and building to bring ideas to life.
 
 ---
 
@@ -9,6 +9,7 @@ Passionate Front-End Developer dedicated to crafting responsive, user-friendly i
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://ng.linkedin.com/in/oluwatunmiseadewole)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white)](https://tunmi-dev-zdo5.vercel.app/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/tunmithe_modest/profilecard/?igsh=MWRpZDFlNjByZDV4OQ==)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://x.com/TunmitheModest)
 
 ---
 
@@ -24,7 +25,7 @@ Passionate Front-End Developer dedicated to crafting responsive, user-friendly i
 
 ### 📊 GitHub Stats
 ![TunmiDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=TunmiDev&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TunmiDev&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TunmiDev&layout=compact&theme=radical&hide=python)
 
 ---
 
