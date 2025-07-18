@@ -34,5 +34,4 @@ Passionate Software Engineer dedicated to building responsive, user-friendly int
 
 ---
 
-### 👁 Visitor Count
-![Visitor Count](https://komarev.com/ghpvc/?username=TunmiDev&color=blue)
+
